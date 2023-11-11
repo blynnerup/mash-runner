@@ -1369,3 +1369,702 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.11-14.55.25:496][668]LogSlate: Window 'FB_Runner_Run' being destroyed
 [2023.11.11-14.55.25:505][668]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2023.11.11-14.55.25:505][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-14.57.56:156][324]LogSlate: Window 'Message' being destroyed
+[2023.11.11-14.57.56:161][324]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+MAP_Debug
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2023.11.11-14.57.56:176][324]LogAutomationController: Ignoring very large delta of 4.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.11-14.59.50:130][147]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.11-14.59.50:140][147]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.11-14.59.50:145][148]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.11-14.59.52:674][416]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.11.11-14.59.52:674][416]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.11-15.00.00:289][629]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.11.11-15.01.12:328][688]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.11-15.01.12:334][688]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.11-15.01.12:339][688]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.11-15.01.12:346][688]LogAutomationController: Ignoring very large delta of 71.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.11-15.01.12:359][690]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.11-15.01.16:493][118]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Runner
+[2023.11.11-15.01.16:510][118]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.11-15.01.43:949][ 62]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-15.01.43:982][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-15.01.43:982][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-15.01.44:046][ 62]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.11.11-15.01.45:785][ 62]LogViewport: Scene viewport resized to 1525x1227, mode Windowed.
+[2023.11.11-15.02.48:004][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.11-15.02.48:004][ 51]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP_Debug' took 0.017
+[2023.11.11-15.02.48:004][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/FB_Runner_Run] ([1] browsable assets)...
+[2023.11.11-15.02.48:006][ 51]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Runner/FB_Runner_Run.FB_Runner_Run]
+[2023.11.11-15.02.48:006][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/FB_Runner_Run]
+[2023.11.11-15.02.48:007][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Runner/FB_Runner_Run_Auto3
+[2023.11.11-15.02.48:007][ 51]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/FB_Runner_Run_Auto39AC4A61649F2CE52FCA80188C8F01599.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/PaperAssets/Runner/FB_Runner_Run_Auto3.uasset'
+[2023.11.11-15.02.48:008][ 51]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2023.11.11-15.02.48:008][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2023.11.11-15.02.48:008][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.11.11-15.02.48:027][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Runner_Auto3
+[2023.11.11-15.02.48:027][ 51]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner_Auto306EF8BF646AFC3652B2598A5DBB19679.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto3.uasset'
+[2023.11.11-15.02.48:027][ 51]LogFileHelpers: Auto-saving content packages took 0.023
+[2023.11.11-15.12.48:826][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.11.11-15.12.48:827][245]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP_Debug' took 0.014
+[2023.11.11-15.12.48:827][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2023.11.11-15.12.48:827][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2023.11.11-15.12.48:827][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.11.11-15.12.48:830][245]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Runner_Auto4
+[2023.11.11-15.12.48:830][245]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner_Auto4CA4C9D2644AE8206E1CCFBA70D533C38.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto4.uasset'
+[2023.11.11-15.12.48:830][245]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.11.11-15.36.56:915][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-15.36.56:943][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.11-15.36.56:945][632]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.11-15.36.56:945][632]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner040D69D54BB06A395C6733845CC33B86.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.11-15.36.56:954][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 119 ms)
+[2023.11.11-15.36.56:954][632]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.11-15.36.56:954][632]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-15.36.58:228][752]LogSlate: Window 'BP_Runner' being destroyed
+[2023.11.11-15.36.58:234][752]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-15.36.58:234][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-15.37.10:937][882]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_0.T_Runner_Sprite_0
+[2023.11.11-15.37.10:937][882]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-15.37.10:937][882]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-15.37.11:036][882]LogViewport: Scene viewport resized to 2038x1254, mode Windowed.
+[2023.11.11-15.37.38:680][327]LogSlate: Window 'T_Runner_Sprite_0' being destroyed
+[2023.11.11-15.37.38:688][327]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-15.37.38:688][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-15.38.04:094][489]LogSlate: Window '10 PaperSprite Objects - Property Matrix Editor' being destroyed
+[2023.11.11-15.38.04:098][489]LogSlate: Window '10 PaperSprite Objects - Property Matrix Editor' being destroyed
+[2023.11.11-15.38.37:596][575]LogSlate: Window '10 PaperSprite Objects - Property Matrix Editor' being destroyed
+[2023.11.11-15.39.18:926][288]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_0.T_Runner_Sprite_0
+[2023.11.11-15.39.18:926][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-15.39.18:926][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-15.39.19:015][288]LogViewport: Scene viewport resized to 2038x1254, mode Windowed.
+[2023.11.11-15.39.23:813][688]LogSlate: Window 'T_Runner_Sprite_0' being destroyed
+[2023.11.11-15.39.23:822][688]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-15.39.23:822][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-15.40.45:570][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-15.40.45:598][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_0" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset" SILENT=true
+[2023.11.11-15.40.45:600][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_0
+[2023.11.11-15.40.45:600][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_0E0F85917411DAAEEB5530A906E65E200.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset'
+[2023.11.11-15.40.45:601][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_1" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset" SILENT=true
+[2023.11.11-15.40.45:602][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_1
+[2023.11.11-15.40.45:602][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_1382599904A21796101B958BCFD6C41DA.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset'
+[2023.11.11-15.40.45:604][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_2" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset" SILENT=true
+[2023.11.11-15.40.45:605][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_2
+[2023.11.11-15.40.45:605][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_27C99F1C14C0EFD2A2B7D67B04EC9B40E.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset'
+[2023.11.11-15.40.45:607][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_3" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset" SILENT=true
+[2023.11.11-15.40.45:608][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_3
+[2023.11.11-15.40.45:608][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_36FCD951645A3D11A495E12B732EA5030.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset'
+[2023.11.11-15.40.45:609][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_4" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset" SILENT=true
+[2023.11.11-15.40.45:610][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_4
+[2023.11.11-15.40.45:610][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_459EDA2864A8248A3DCDB5EA5393B348E.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset'
+[2023.11.11-15.40.45:614][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_5" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset" SILENT=true
+[2023.11.11-15.40.45:615][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_5
+[2023.11.11-15.40.45:615][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_54AAFE6864506ED88FAECFE84E3132B83.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset'
+[2023.11.11-15.40.45:617][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_6" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset" SILENT=true
+[2023.11.11-15.40.45:618][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_6
+[2023.11.11-15.40.45:618][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_6C63B6BB346FAE86ACAFC5CBE0F55ACE2.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset'
+[2023.11.11-15.40.45:620][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_7" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset" SILENT=true
+[2023.11.11-15.40.45:620][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_7
+[2023.11.11-15.40.45:620][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_70E59FB3C4C323644CAD6388EF5A116E9.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset'
+[2023.11.11-15.40.45:623][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_8" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset" SILENT=true
+[2023.11.11-15.40.45:624][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_8
+[2023.11.11-15.40.45:624][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_872A79AB94CC5EAB3DEB3D5BED19C9290.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset'
+[2023.11.11-15.40.45:625][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner_Sprite_9" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset" SILENT=true
+[2023.11.11-15.40.45:626][297]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner_Sprite_9
+[2023.11.11-15.40.45:626][297]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner_Sprite_913719EEA47EE3934F3687AAAFC0A0028.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset'
+[2023.11.11-15.40.45:632][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 181 ms)
+[2023.11.11-15.40.45:633][297]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_0.T_Runner_Sprite_0
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_1.T_Runner_Sprite_1
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_2.T_Runner_Sprite_2
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_3.T_Runner_Sprite_3
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_4.T_Runner_Sprite_4
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_5.T_Runner_Sprite_5
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_6.T_Runner_Sprite_6
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_7.T_Runner_Sprite_7
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_8.T_Runner_Sprite_8
+[2023.11.11-15.40.45:633][297]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Runner/T_Runner_Sprite_9.T_Runner_Sprite_9
+[2023.11.11-15.40.50:036][537]LogSlate: Window '10 PaperSprite Objects - Property Matrix Editor' being destroyed
+[2023.11.11-15.40.55:408][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-15.40.55:408][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-15.40.55:408][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-15.40.57:387][291]LogSlate: Window 'BP_Runner' being destroyed
+[2023.11.11-15.40.57:394][291]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-15.40.57:394][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-15.40.57:403][291]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-15.40.57:404][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-15.40.57:404][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-15.40.59:773][507]LogViewport: Scene viewport resized to 1525x973, mode Windowed.
+[2023.11.11-15.41.27:357][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-15.41.27:398][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.11-15.41.27:401][760]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.11-15.41.27:401][760]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner73DD22BF466DA15B80BE94AC452EE5CB.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.11-15.41.27:408][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 232 ms)
+[2023.11.11-15.41.27:409][760]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.11-15.41.27:409][760]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-15.46.44:550][ 98]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 557 files in 961 folders with total size 4 MiB.
+[2023.11.11-16.46.44:558][ 23]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 557 files in 961 folders with total size 4 MiB.
+[2023.11.11-17.10.42:144][334]LogSlate: Window 'BP_Runner' being destroyed
+[2023.11.11-17.10.42:152][334]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-17.10.42:152][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-17.11.37:018][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-17.11.37:050][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Background/T_Field_Sprite" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset" SILENT=true
+[2023.11.11-17.11.37:051][652]LogSavePackage: Moving output files for package: /Game/PaperAssets/Background/T_Field_Sprite
+[2023.11.11-17.11.37:051][652]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Field_SpriteDD1ADED841B416A886673BB48BFFABB9.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset'
+[2023.11.11-17.11.37:053][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Goal/T_Goal_Connected_Sprite" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset" SILENT=true
+[2023.11.11-17.11.37:054][652]LogSavePackage: Moving output files for package: /Game/PaperAssets/Goal/T_Goal_Connected_Sprite
+[2023.11.11-17.11.37:054][652]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Goal_Connected_SpriteC295E4314E212CEED7449BA0D0442DA6.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset'
+[2023.11.11-17.11.37:056][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Goal/T_Goal_Ripped_Sprite" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset" SILENT=true
+[2023.11.11-17.11.37:057][652]LogSavePackage: Moving output files for package: /Game/PaperAssets/Goal/T_Goal_Ripped_Sprite
+[2023.11.11-17.11.37:057][652]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Goal_Ripped_SpriteF4E03E444C48048FC6CD0583616CE680.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset'
+[2023.11.11-17.11.37:062][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 276 ms)
+[2023.11.11-17.11.37:063][652]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.11-17.11.37:063][652]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Background/T_Field_Sprite.T_Field_Sprite
+[2023.11.11-17.11.37:063][652]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Goal/T_Goal_Connected_Sprite.T_Goal_Connected_Sprite
+[2023.11.11-17.11.37:063][652]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Goal/T_Goal_Ripped_Sprite.T_Goal_Ripped_Sprite
+[2023.11.11-17.11.40:399][982]LogSlate: Window '3 PaperSprite Objects - Property Matrix Editor' being destroyed
+[2023.11.11-17.11.46:160][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.11-17.11.46:166][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-17.11.46:194][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Background/T_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Background/T_Field.uasset" SILENT=true
+[2023.11.11-17.11.46:214][605]LogSavePackage: Moving output files for package: /Game/PaperAssets/Background/T_Field
+[2023.11.11-17.11.46:214][605]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Field0478D4AC4ADAE5261B1F00AAA5A0E859.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Background/T_Field.uasset'
+[2023.11.11-17.11.46:216][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/T_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset" SILENT=true
+[2023.11.11-17.11.46:219][605]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/T_Runner
+[2023.11.11-17.11.46:219][605]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Runner86B55C9C4F961BAC563D5D9FDD272E32.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset'
+[2023.11.11-17.11.46:221][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Goal/T_Goal_Connected" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset" SILENT=true
+[2023.11.11-17.11.46:222][605]LogSavePackage: Moving output files for package: /Game/PaperAssets/Goal/T_Goal_Connected
+[2023.11.11-17.11.46:222][605]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Goal_Connected818417344600277CB592DCBE297461DC.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset'
+[2023.11.11-17.11.46:222][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Goal/T_Goal_Ripped" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset" SILENT=true
+[2023.11.11-17.11.46:223][605]LogSavePackage: Moving output files for package: /Game/PaperAssets/Goal/T_Goal_Ripped
+[2023.11.11-17.11.46:223][605]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/T_Goal_RippedA7A140474F17FB7DEA69E388A1A108F4.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset'
+[2023.11.11-17.11.46:223][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Runner/FB_Runner_Run" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset" SILENT=true
+[2023.11.11-17.11.46:224][605]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/FB_Runner_Run
+[2023.11.11-17.11.46:224][605]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/FB_Runner_Run190DAD9A48561FA2F91D6DAEB276BCB0.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset'
+[2023.11.11-17.11.46:230][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 340 ms)
+[2023.11.11-17.11.46:231][605]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.11-17.11.46:231][605]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssets/Background/T_Field.T_Field
+[2023.11.11-17.11.46:231][605]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssets/Runner/T_Runner.T_Runner
+[2023.11.11-17.11.46:231][605]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssets/Goal/T_Goal_Connected.T_Goal_Connected
+[2023.11.11-17.11.46:231][605]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssets/Goal/T_Goal_Ripped.T_Goal_Ripped
+[2023.11.11-17.11.46:231][605]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/PaperAssets/Runner/FB_Runner_Run.FB_Runner_Run
+[2023.11.11-17.46.44:559][994]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.056 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 557 files in 961 folders with total size 4 MiB.
+[2023.11.11-17.56.11:209][691]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.11-17.56.11:212][691]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=86604
+[2023.11.11-17.56.11:547][692]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{68145fca-27e5-4f2e-9ca4-014901768c11}, Name=Headset Earphone (SteelSeries Arctis 9 Chat)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=27.77
+[2023.11.11-17.56.11:547][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.11-17.56.11:548][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.11-19.22.41:677][766]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5166 Seconds] waiting for h/w. InstanceID=1
+[2023.11.11-19.22.42:366][766]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=86604
+[2023.11.11-19.22.42:380][766]LogAutomationController: Ignoring very large delta of 5166.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.11-19.22.42:416][768]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{68145fca-27e5-4f2e-9ca4-014901768c11} Name=Headset Earphone (SteelSeries Arctis 9 Chat))
+[2023.11.11-19.22.49:236][788]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (SteelSeries Arctis 9 Game), InstanceID=1
+[2023.11.11-19.22.49:288][788]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Microphone), InstanceID=1
+[2023.11.11-19.22.49:774][789]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (SteelSeries Arctis 9 Chat), InstanceID=1
+[2023.11.11-19.22.49:816][789]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{56cee5cd-82ce-4149-8097-0ee4026ccc3e}, Name=Speakers (Steam Streaming Microphone)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.38
+[2023.11.11-19.22.49:816][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.11-19.22.49:818][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.11-19.22.50:148][790]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=86604
+[2023.11.11-19.22.50:482][791]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{68145fca-27e5-4f2e-9ca4-014901768c11}, Name=Headset Earphone (SteelSeries Arctis 9 Chat)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.42
+[2023.11.11-19.22.50:482][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.11-19.22.50:483][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.11-19.23.40:220][559]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.11-19.23.40:230][559]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.11-19.23.40:240][560]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.11-19.23.43:472][906]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2023.11.11-19.23.43:473][906]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.11-19.23.46:767][266]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.11-19.23.46:780][266]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.11-19.23.46:814][268]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.11-19.23.49:054][509]LogContentBrowser: Attempting asset rename: NewFolder -> Actions
+[2023.11.11-19.23.49:055][509]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.11-19.23.54:668][103]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.11.11-19.23.54:673][103]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.11.11-19.23.54:719][105]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.11.11-19.24.04:830][182]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_PowerLeft
+[2023.11.11-19.24.04:831][182]LogContentBrowser: End creating deferred item NewInputAction
+[2023.11.11-19.24.06:142][323]Cmd: SELECT NONE
+[2023.11.11-19.24.09:752][707]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.11.11-19.24.09:756][707]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.11.11-19.24.09:763][708]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.11.11-19.24.13:724][137]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_PowerRight
+[2023.11.11-19.24.13:724][137]LogContentBrowser: End creating deferred item NewInputAction
+[2023.11.11-19.24.31:163][843]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2023.11.11-19.24.31:167][843]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2023.11.11-19.24.31:191][844]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2023.11.11-19.24.35:900][352]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Runner
+[2023.11.11-19.24.35:901][352]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2023.11.11-19.24.37:650][540]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Runner.IMC_Runner
+[2023.11.11-19.26.10:413][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-19.26.10:441][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Input/IMC_Runner.uasset" SILENT=true
+[2023.11.11-19.26.10:442][152]LogSavePackage: Moving output files for package: /Game/Input/IMC_Runner
+[2023.11.11-19.26.10:443][152]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/IMC_Runner927BB1B84FEEC64299C7EAB23E53A640.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Input/IMC_Runner.uasset'
+[2023.11.11-19.26.10:449][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 376 ms)
+[2023.11.11-19.26.10:450][152]AssetCheck: New page: Asset Save: IMC_Runner
+[2023.11.11-19.26.10:450][152]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Runner.IMC_Runner
+[2023.11.11-19.26.14:404][556]LogSlate: Window 'IMC_Runner' being destroyed
+[2023.11.11-19.26.53:103][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-19.26.53:104][434]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-19.26.53:104][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-19.28.08:366][562]BlueprintLog: New page: Compile BP_Runner
+[2023.11.11-19.28.08:398][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.11-19.28.08:760][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-19.28.08:782][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.11-19.28.08:785][594]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.11-19.28.08:785][594]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner734740B64F1F7D5134F524B66FB4C733.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.11-19.28.08:792][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 407 ms)
+[2023.11.11-19.28.08:793][594]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.11-19.28.08:793][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-19.30.23:013][706]BlueprintLog: New page: Compile BP_Runner
+[2023.11.11-19.30.23:037][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.11-19.30.23:705][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-19.30.23:735][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.11-19.30.23:740][769]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.11-19.30.23:740][769]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner72A61BF84420796E134937A8230ED54E.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.11-19.30.23:746][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 449 ms)
+[2023.11.11-19.30.23:747][769]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.11-19.30.23:747][769]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-19.30.25:799][961]LogSlate: Window 'BP_Runner' being destroyed
+[2023.11.11-19.30.25:808][961]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-19.30.25:808][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-19.30.27:109][ 85]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2023.11.11-19.30.27:117][ 85]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2023.11.11-19.30.27:118][ 85]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/MAP_Debug.MAP_Debug:PersistentLevel.BP_Runner_C_0
+[2023.11.11-19.30.27:118][ 85]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/MAP_Debug.MAP_Debug:PersistentLevel.BP_Runner_C_0
+[2023.11.11-19.30.27:121][ 85]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.11-19.30.27:610][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2023.11.11-19.30.27:610][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2023.11.11-19.30.27:612][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/MAP_Debug.MAP_Debug:PersistentLevel.BP_Runner_C_1
+[2023.11.11-19.30.27:612][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/MAP_Debug.MAP_Debug:PersistentLevel.BP_Runner_C_1
+[2023.11.11-19.30.56:989][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-19.30.57:022][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAP_Debug" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/MAP_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.11-19.30.57:048][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.11.11-19.30.57:063][669]LogSavePackage: Moving output files for package: /Game/MAP_Debug
+[2023.11.11-19.30.57:063][669]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_DebugC7F79649478501722AB8A2975D2B5579.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/MAP_Debug.umap'
+[2023.11.11-19.30.57:069][669]LogFileHelpers: Saving map 'MAP_Debug' took 0.048
+[2023.11.11-19.30.57:077][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 537 ms)
+[2023.11.11-19.30.57:079][669]AssetCheck: New page: Asset Save: MAP_Debug
+[2023.11.11-19.30.57:079][669]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAP_Debug.MAP_Debug
+[2023.11.11-19.31.06:131][ 19]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.11-19.31.06:140][ 19]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.11-19.31.06:147][ 19]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.11-19.31.06:151][ 19]LogAutomationController: Ignoring very large delta of 5.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.11-19.31.06:159][ 20]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.11-19.31.11:015][517]LogContentBrowser: Attempting asset rename: NewBlueprint -> GM_Runner
+[2023.11.11-19.31.11:020][517]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.11-19.31.14:026][830]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_Runner.GM_Runner
+[2023.11.11-19.31.14:026][830]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-19.31.14:026][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-19.31.14:232][830]LogViewport: Scene viewport resized to 1525x973, mode Windowed.
+[2023.11.11-19.31.15:630][925]LogViewport: Scene viewport resized to 1523x991, mode Windowed.
+[2023.11.11-19.31.15:699][927]LogViewport: Scene viewport resized to 752x433, mode Windowed.
+[2023.11.11-19.31.15:726][928]LogViewport: Scene viewport resized to 467x225, mode Windowed.
+[2023.11.11-19.31.16:028][957]LogViewport: Scene viewport resized to 1525x973, mode Windowed.
+[2023.11.11-19.31.16:497][  6]LogSlate: Window 'GM_Runner' being destroyed
+[2023.11.11-19.31.30:223][619]BlueprintLog: New page: Compile GM_Runner
+[2023.11.11-19.31.30:250][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.11-19.31.30:628][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-19.31.30:661][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/GM_Runner.uasset" SILENT=true
+[2023.11.11-19.31.30:664][658]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Runner
+[2023.11.11-19.31.30:664][658]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/GM_RunnerDE9A9570499646E590D2169565B7304D.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/GM_Runner.uasset'
+[2023.11.11-19.31.30:674][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 584 ms)
+[2023.11.11-19.31.30:675][658]AssetCheck: New page: Asset Save: GM_Runner
+[2023.11.11-19.31.30:675][658]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Runner.GM_Runner
+[2023.11.11-19.40.57:368][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.11-19.40.57:370][383]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP_Debug' took 0.015
+[2023.11.11-19.40.57:370][383]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PowerLeft] ([1] browsable assets)...
+[2023.11.11-19.40.57:370][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PowerLeft]
+[2023.11.11-19.40.57:371][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_PowerLeft_Auto5
+[2023.11.11-19.40.57:371][383]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/IA_PowerLeft_Auto5490237E04774584481105EACB18DE9EC.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Input/Actions/IA_PowerLeft_Auto5.uasset'
+[2023.11.11-19.40.57:371][383]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PowerRight] ([1] browsable assets)...
+[2023.11.11-19.40.57:371][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PowerRight]
+[2023.11.11-19.40.57:372][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_PowerRight_Auto5
+[2023.11.11-19.40.57:372][383]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/IA_PowerRight_Auto5C84C1B94494FAA7FF5821399EAF384CB.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Input/Actions/IA_PowerRight_Auto5.uasset'
+[2023.11.11-19.40.57:372][383]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.11.11-20.02.13:552][973]LogSlate: External Image Picker: DecompressImage failed
+[2023.11.11-20.02.48:616][877]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.11-20.02.48:623][877]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.11-20.02.51:226][178]BlueprintLog: New page: Compile GM_Runner
+[2023.11.11-20.02.51:250][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.11-20.02.51:720][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-20.02.51:752][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/GM_Runner.uasset" SILENT=true
+[2023.11.11-20.02.51:754][228]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Runner
+[2023.11.11-20.02.51:754][228]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/GM_RunnerC2D9797D4FE89AF3350192884FE4DBD6.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/GM_Runner.uasset'
+[2023.11.11-20.02.51:761][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 624 ms)
+[2023.11.11-20.02.51:762][228]AssetCheck: New page: Asset Save: GM_Runner
+[2023.11.11-20.02.51:762][228]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Runner.GM_Runner
+[2023.11.11-20.03.11:947][329]Cmd: DELETE
+[2023.11.11-20.03.11:968][329]Cmd: ACTOR DELETE
+[2023.11.11-20.03.11:988][329]LogEditorActor: Deleted Actor: BP_Runner_C
+[2023.11.11-20.03.12:001][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.11-20.03.12:005][329]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2023.11.11-20.03.28:585][847]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.11-20.03.28:585][847]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.11-20.03.28:587][847]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/MAP_Debug.MAP_Debug:PersistentLevel.PlayerStart_1
+[2023.11.11-20.03.28:587][847]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.11-20.03.28:605][847]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/MAP_Debug.MAP_Debug:PersistentLevel.PlayerStart_1
+[2023.11.11-20.03.28:606][847]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.11-20.03.28:620][847]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.11-20.03.45:081][268]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.11-20.03.45:088][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.11-20.03.45:088][268]PIE: New page: PIE session: MAP_Debug (11 Nov 2023, 22.03.45)
+[2023.11.11-20.03.45:094][268]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.11-20.03.45:094][268]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.11.11-20.03.45:094][268]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MAP_Debug
+[2023.11.11-20.03.45:096][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001641s)
+[2023.11.11-20.03.45:096][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP_Debug.MAP_Debug to /Game/UEDPIE_0_MAP_Debug.MAP_Debug (0.001717s)
+[2023.11.11-20.03.45:112][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.11-20.03.45:117][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-20.03.45:117][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-20.03.45:118][268]LogAIModule: Creating AISystem for world MAP_Debug
+[2023.11.11-20.03.45:118][268]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2023.11.11-20.03.45:118][268]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.11-20.03.45:118][268]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.11-20.03.45:118][268]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.11-20.03.45:118][268]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.11-20.03.45:118][268]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.11-20.03.45:118][268]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.11-20.03.45:118][268]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.11-20.03.45:118][268]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.11-20.03.45:118][268]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.11-20.03.45:119][268]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.11-20.03.45:119][268]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.11-20.03.45:119][268]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.11-20.03.45:120][268]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.11-20.03.45:139][268]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.11-20.03.45:139][268]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.11-20.03.45:139][268]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.11-20.03.45:139][268]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.11-20.03.45:140][268]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.11-20.03.45:140][268]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.11-20.03.45:142][268]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.11-20.03.45:142][268]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.11-20.03.45:142][268]LogInit: FAudioDevice initialized with ID 2.
+[2023.11.11-20.03.45:142][268]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_Debug'.
+[2023.11.11-20.03.45:142][268]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.11-20.03.45:148][268]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.11-20.03.45:148][268]LogWorld: Bringing World /Game/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2023.11.11-21.03.45
+[2023.11.11-20.03.45:149][268]LogWorld: Bringing up level for play took: 0.000628
+[2023.11.11-20.03.45:150][268]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.11.11-20.03.45:180][268]PIE: Server logged in
+[2023.11.11-20.03.45:180][268]PIE: Play in editor total start time 0,093 seconds.
+[2023.11.11-20.03.50:203][811]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:212][812]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:221][813]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:232][814]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:241][815]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:250][816]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:259][817]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:268][818]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:276][819]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:285][820]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:294][821]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:303][822]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:312][823]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:320][824]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:329][825]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:340][826]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:348][827]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:357][828]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.50:717][868]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:725][869]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:734][870]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:742][871]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:752][872]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:761][873]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:771][874]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:780][875]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:789][876]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:798][877]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:807][878]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:815][879]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:824][880]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.50:833][881]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.51:291][932]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:300][933]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:311][934]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:319][935]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:329][936]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:336][937]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:345][938]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:354][939]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:363][940]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:372][941]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:381][942]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:390][943]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:399][944]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:408][945]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.51:418][946]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:227][ 36]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:235][ 37]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:243][ 38]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:252][ 39]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:261][ 40]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:270][ 41]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:280][ 42]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:290][ 43]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:299][ 44]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:307][ 45]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:315][ 46]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:324][ 47]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:334][ 48]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:341][ 49]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.03.52:531][ 70]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:539][ 71]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:548][ 72]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:557][ 73]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:565][ 74]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:575][ 75]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:585][ 76]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:593][ 77]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:604][ 78]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:613][ 79]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:622][ 80]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.03.52:630][ 81]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.04.00:077][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.11-20.04.00:077][826]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MAP_Debug
+[2023.11.11-20.04.00:079][826]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-20.04.00:079][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-20.04.00:081][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.11-20.04.00:084][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-20.04.00:095][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.11-20.04.00:095][826]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.11-20.04.00:095][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.11-20.04.00:096][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.11-20.04.00:100][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.11-20.04.00:102][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.11-20.04.00:166][828]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.11.11-20.04.42:790][427]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-20.04.42:790][427]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-20.04.42:790][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-20.04.48:794][745]LogViewport: Scene viewport resized to 1525x973, mode Windowed.
+[2023.11.11-20.05.21:927][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.11-20.05.21:930][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAP_Debug" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/MAP_Debug_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.11-20.05.21:936][713]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MAP_Debug_Auto6
+[2023.11.11-20.05.21:936][713]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_Debug_Auto651A44ABE443AA23797F87FB118B9587F.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/MAP_Debug_Auto6.umap'
+[2023.11.11-20.05.21:936][713]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/MAP_Debug_Auto6.umap is in the /Temp path, will not scan.
+[2023.11.11-20.05.21:937][713]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/MAP_Debug_Auto6 is in the /Temp path, will not scan.
+[2023.11.11-20.05.21:937][713]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/MAP_Debug_Auto6 is in the /Temp path, will not scan.
+[2023.11.11-20.05.21:937][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP_Debug' took 0.023
+[2023.11.11-20.05.21:937][713]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2023.11.11-20.06.43:330][496]BlueprintLog: New page: Compile BP_Runner
+[2023.11.11-20.06.43:369][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.11-20.06.43:840][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-20.06.43:865][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.11-20.06.43:871][538]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.11-20.06.43:872][538]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner50399F85477769C3712C7D9C11579EF1.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.11-20.06.43:877][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 662 ms)
+[2023.11.11-20.06.43:879][538]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.11-20.06.43:879][538]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.11-20.06.46:328][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-20.06.46:361][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAP_Debug" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/MAP_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.11-20.06.46:386][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.11-20.06.46:396][785]LogSavePackage: Moving output files for package: /Game/MAP_Debug
+[2023.11.11-20.06.46:396][785]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_Debug71F870784B9E64DDE59EC79C8A3F7321.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/MAP_Debug.umap'
+[2023.11.11-20.06.46:400][785]LogFileHelpers: Saving map 'MAP_Debug' took 0.039
+[2023.11.11-20.06.46:407][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 741 ms)
+[2023.11.11-20.06.46:409][785]AssetCheck: New page: Asset Save: MAP_Debug
+[2023.11.11-20.06.46:409][785]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAP_Debug.MAP_Debug
+[2023.11.11-20.06.48:503][  3]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.11-20.06.48:506][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.11-20.06.48:506][  3]PIE: New page: PIE session: MAP_Debug (11 Nov 2023, 22.06.48)
+[2023.11.11-20.06.48:506][  3]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MAP_Debug
+[2023.11.11-20.06.48:507][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2023.11.11-20.06.48:507][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP_Debug.MAP_Debug to /Game/UEDPIE_0_MAP_Debug.MAP_Debug (0.001834s)
+[2023.11.11-20.06.48:520][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.11-20.06.48:521][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-20.06.48:521][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-20.06.48:521][  3]LogAIModule: Creating AISystem for world MAP_Debug
+[2023.11.11-20.06.48:521][  3]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2023.11.11-20.06.48:522][  3]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.11.11-20.06.48:522][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.11-20.06.48:522][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.11-20.06.48:522][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.11-20.06.48:522][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.11-20.06.48:522][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.11-20.06.48:522][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.11-20.06.48:522][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.11-20.06.48:522][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.11-20.06.48:522][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.11-20.06.48:522][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.11-20.06.48:522][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.11-20.06.48:524][  3]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.11-20.06.48:542][  3]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.11-20.06.48:543][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.11-20.06.48:543][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.11-20.06.48:543][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.11-20.06.48:545][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.11.11-20.06.48:545][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.11.11-20.06.48:546][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.11.11-20.06.48:546][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.11.11-20.06.48:546][  3]LogInit: FAudioDevice initialized with ID 3.
+[2023.11.11-20.06.48:546][  3]LogAudio: Display: Audio Device (ID: 3) registered with world 'MAP_Debug'.
+[2023.11.11-20.06.48:546][  3]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.11.11-20.06.48:549][  3]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.11-20.06.48:550][  3]LogWorld: Bringing World /Game/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2023.11.11-21.06.48
+[2023.11.11-20.06.48:550][  3]LogWorld: Bringing up level for play took: 0.000454
+[2023.11.11-20.06.48:551][  3]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.11.11-20.06.48:552][  3]PIE: Server logged in
+[2023.11.11-20.06.48:552][  3]PIE: Play in editor total start time 0,047 seconds.
+[2023.11.11-20.06.58:645][ 85]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:652][ 86]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:662][ 87]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:670][ 88]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:682][ 89]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:691][ 90]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:699][ 91]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:709][ 92]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:717][ 93]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:726][ 94]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:735][ 95]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:744][ 96]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:754][ 97]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:763][ 98]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:771][ 99]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:780][100]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:791][101]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:800][102]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:809][103]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:817][104]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:826][105]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:835][106]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:845][107]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:854][108]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:854][108]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:862][109]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:871][110]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:880][111]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:889][112]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:900][113]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:908][114]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:918][115]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:927][116]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:935][117]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:944][118]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.58:971][121]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:980][122]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:989][123]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.58:998][124]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:009][125]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:017][126]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:027][127]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:035][128]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:045][129]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:053][130]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:053][130]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:064][131]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:073][132]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:082][133]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:090][134]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:099][135]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:108][136]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:119][137]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:127][138]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:164][142]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:173][143]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:181][144]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:192][145]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:201][146]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:209][147]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:219][148]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:230][149]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:238][150]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:247][151]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:255][152]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:266][153]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:274][154]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:284][155]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:293][156]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:421][170]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:430][171]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:438][172]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:450][173]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:458][174]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:468][175]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:477][176]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:486][177]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:494][178]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:504][179]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:512][180]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:522][181]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:529][182]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:539][183]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:548][184]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:560][185]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:595][189]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:604][190]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:613][191]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:622][192]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:631][193]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:639][194]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:649][195]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:658][196]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:669][197]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:677][198]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:686][199]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:694][200]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:704][201]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:713][202]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:722][203]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:732][204]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:741][205]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:750][206]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:759][207]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:767][208]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:779][209]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:787][210]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:797][211]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:832][215]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:841][216]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:851][217]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:859][218]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:868][219]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:876][220]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:888][221]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:898][222]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:906][223]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:915][224]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:924][225]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.06.59:933][226]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:942][227]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:950][228]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:960][229]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:969][230]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:978][231]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:986][232]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.06.59:998][233]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.00:009][234]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.00:052][239]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:060][240]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:069][241]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:077][242]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:088][243]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:096][244]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:107][245]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:115][246]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:125][247]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:134][248]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:134][248]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.00:143][249]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:143][249]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.00:152][250]LogBlueprintUserMessages: [BP_Runner_C_0] Right
+[2023.11.11-20.07.00:152][250]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.00:162][251]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.00:170][252]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.00:179][253]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.00:189][254]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.00:198][255]LogBlueprintUserMessages: [BP_Runner_C_0] Left
+[2023.11.11-20.07.02:804][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.11-20.07.02:804][536]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MAP_Debug
+[2023.11.11-20.07.02:804][536]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-20.07.02:804][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-20.07.02:807][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.11-20.07.02:810][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-20.07.02:821][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.11-20.07.02:821][536]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.11.11-20.07.02:821][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.11.11-20.07.02:824][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.11.11-20.07.02:831][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.11-20.07.02:891][538]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.11.11-20.12.45:709][ 54]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.075 and deleted 2 files with total size 0 MiB and 2 empty folders. Scanned 557 files in 961 folders with total size 4 MiB.

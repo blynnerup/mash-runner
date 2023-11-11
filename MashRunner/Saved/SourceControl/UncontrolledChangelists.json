@@ -6,7 +6,28 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/MAP_Debug.umap",
-				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset"
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Background/T_Field.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Input/IMC_Runner.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/GM_Runner.uasset"
 			]
 		}
 	]
