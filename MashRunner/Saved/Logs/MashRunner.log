@@ -6103,3 +6103,287 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.12-11.36.16:944][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
 [2023.11.12-11.36.16:949][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
 [2023.11.12-11.36.17:007][609]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.11.12-11.44.06:101][355]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 560 files in 968 folders with total size 4 MiB.
+[2023.11.12-12.02.26:462][931]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.11.12-12.02.27:105][993]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.12-12.02.27:116][993]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.12-12.02.27:126][994]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.12-12.02.30:091][315]LogContentBrowser: Attempting asset rename: NewFolder -> Curves
+[2023.11.12-12.02.30:091][315]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.12-12.02.46:516][419]LogSlate: Window 'Pick Curve Class' being destroyed
+[2023.11.12-12.02.46:521][419]LogContentBrowser: Deferred new asset file creation: NewCurveBase
+[2023.11.12-12.02.46:525][419]LogContentBrowser: Creating deferred item: NewCurveBase
+[2023.11.12-12.02.46:543][421]LogContentBrowser: Renaming the item being created (Deferred Item: NewCurveBase).
+[2023.11.12-12.02.56:062][445]LogContentBrowser: Attempting asset rename: NewCurveBase -> C_SpeedIncreaseRamp
+[2023.11.12-12.02.56:063][445]LogContentBrowser: End creating deferred item NewCurveBase
+[2023.11.12-12.02.57:436][593]LogAssetEditorSubsystem: Opening Asset editor for CurveFloat /Game/Curves/C_SpeedIncreaseRamp.C_SpeedIncreaseRamp
+[2023.11.12-12.02.57:621][593]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:1784 H:0
+[2023.11.12-12.03.39:429][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.12-12.03.39:432][793]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP_Debug' took 0.020
+[2023.11.12-12.03.39:432][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Curves/C_SpeedIncreaseRamp] ([1] browsable assets)...
+[2023.11.12-12.03.39:434][793]OBJ SavePackage:     Rendered thumbnail for [CurveFloat /Game/Curves/C_SpeedIncreaseRamp.C_SpeedIncreaseRamp]
+[2023.11.12-12.03.39:434][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Curves/C_SpeedIncreaseRamp]
+[2023.11.12-12.03.39:435][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Curves/C_SpeedIncreaseRamp_Auto3
+[2023.11.12-12.03.39:435][793]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/C_SpeedIncreaseRamp_Auto3A85432E74C341FEF3E27A79A5B827919.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Curves/C_SpeedIncreaseRamp_Auto3.uasset'
+[2023.11.12-12.03.39:435][793]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.11.12-12.10.33:739][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-12.10.33:762][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Curves/C_SpeedIncreaseRamp" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Curves/C_SpeedIncreaseRamp.uasset" SILENT=true
+[2023.11.12-12.10.33:763][511]LogSavePackage: Moving output files for package: /Game/Curves/C_SpeedIncreaseRamp
+[2023.11.12-12.10.33:763][511]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/C_SpeedIncreaseRampD5F575AB419332D7C840CFB1CC7729A3.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Curves/C_SpeedIncreaseRamp.uasset'
+[2023.11.12-12.10.33:769][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 1.91 sec)
+[2023.11.12-12.10.33:770][511]AssetCheck: New page: Asset Save: C_SpeedIncreaseRamp
+[2023.11.12-12.10.33:770][511]LogContentValidation: Display: Validating /Script/Engine.CurveFloat /Game/Curves/C_SpeedIncreaseRamp.C_SpeedIncreaseRamp
+[2023.11.12-12.11.31:337][663]BlueprintLog: New page: Compile BP_Runner
+[2023.11.12-12.11.31:368][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.12-12.11.32:270][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-12.11.32:295][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.12-12.11.32:310][762]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.12-12.11.32:310][762]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner3AE1D54B412ABC5E058CD5A1BC348BBE.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.12-12.11.32:314][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.96 sec)
+[2023.11.12-12.11.32:315][762]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.12-12.11.32:315][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.12-12.11.40:812][756]BlueprintLog: New page: Compile BP_Runner
+[2023.11.12-12.11.40:843][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.12-12.11.41:390][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-12.11.41:421][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.12-12.11.41:435][811]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.12-12.11.41:435][811]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner2DA3D87C489C924386441199D3E9EF6B.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.12-12.11.41:440][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.01 sec)
+[2023.11.12-12.11.41:441][811]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.12-12.11.41:441][811]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.12-12.13.34:711][121]BlueprintLog: New page: Compile BP_Runner
+[2023.11.12-12.13.34:739][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.12-12.14.01:170][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.12-12.14.01:171][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP_Debug' took 0.013
+[2023.11.12-12.14.01:171][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2023.11.12-12.14.01:171][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2023.11.12-12.14.01:171][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.11.12-12.14.01:185][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Runner_Auto4
+[2023.11.12-12.14.01:186][423]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner_Auto4C4CAB833471F4A79E54EE3827AF8969C.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto4.uasset'
+[2023.11.12-12.14.01:186][423]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.11.12-12.21.24:041][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-12.21.24:065][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.12-12.21.24:080][145]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.12-12.21.24:080][145]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner6ACF811D434B69F9AC7796A2F6F4CCF7.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.12-12.21.24:087][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.05 sec)
+[2023.11.12-12.21.24:089][145]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.12-12.21.24:089][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.12-12.21.32:822][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-12.21.32:850][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.12-12.21.32:864][187]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.12-12.21.32:864][187]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_RunnerB51F877B4E4AB0A3C30A5287CE937D69.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.12-12.21.32:869][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.10 sec)
+[2023.11.12-12.21.32:871][187]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.12-12.21.32:871][187]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.12-12.21.34:724][378]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.12-12.21.34:729][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.12-12.21.34:729][378]PIE: New page: PIE session: MAP_Debug (12 Nov 2023, 14.21.34)
+[2023.11.12-12.21.34:754][378]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MAP_Debug
+[2023.11.12-12.21.34:756][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001567s)
+[2023.11.12-12.21.34:756][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP_Debug.MAP_Debug to /Game/UEDPIE_0_MAP_Debug.MAP_Debug (0.001602s)
+[2023.11.12-12.21.34:769][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.12-12.21.34:771][378]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.12-12.21.34:772][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.12-12.21.34:772][378]LogAIModule: Creating AISystem for world MAP_Debug
+[2023.11.12-12.21.34:772][378]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2023.11.12-12.21.34:772][378]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.11.12-12.21.34:772][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.12-12.21.34:772][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.12-12.21.34:772][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.12-12.21.34:772][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.12-12.21.34:772][378]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.12-12.21.34:772][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.12-12.21.34:772][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.12-12.21.34:772][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.12-12.21.34:772][378]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.12-12.21.34:772][378]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.12-12.21.34:772][378]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.12-12.21.34:774][378]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.12-12.21.34:792][378]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.12-12.21.34:792][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.12-12.21.34:792][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.12-12.21.34:792][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.12-12.21.34:795][378]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.11.12-12.21.34:795][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.11.12-12.21.34:796][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.11.12-12.21.34:796][378]LogInit: FAudioDevice initialized with ID 32.
+[2023.11.12-12.21.34:796][378]LogAudio: Display: Audio Device (ID: 32) registered with world 'MAP_Debug'.
+[2023.11.12-12.21.34:796][378]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.11.12-12.21.34:796][378]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.11.12-12.21.34:799][378]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.12-12.21.34:799][378]LogWorld: Bringing World /Game/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2023.11.12-13.21.34
+[2023.11.12-12.21.34:799][378]LogWorld: Bringing up level for play took: 0.000475
+[2023.11.12-12.21.34:801][378]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.11.12-12.21.34:802][378]PIE: Server logged in
+[2023.11.12-12.21.34:803][378]PIE: Play in editor total start time 0,073 seconds.
+[2023.11.12-12.21.39:466][884]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.39:621][901]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.39:765][917]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.39:909][933]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.40:032][947]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.40:169][962]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.40:295][976]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.40:438][992]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.40:582][  8]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.40:732][ 25]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.43:679][355]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.43:808][369]LogBlueprintUserMessages: [BP_Runner_C_0] Left again
+[2023.11.12-12.21.43:952][385]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.44:815][480]LogBlueprintUserMessages: [BP_Runner_C_0] Left again
+[2023.11.12-12.21.44:996][500]LogBlueprintUserMessages: [BP_Runner_C_0] Left again
+[2023.11.12-12.21.46:008][612]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.46:852][705]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.47:601][788]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.48:379][875]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.49:574][  9]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.50:319][ 93]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-12.21.53:255][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.12-12.21.53:255][424]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MAP_Debug
+[2023.11.12-12.21.53:255][424]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2023.11.12-12.21.53:255][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.12-12.21.53:273][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.12-12.21.53:276][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.12-12.21.53:288][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.12-12.21.53:288][424]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.11.12-12.21.53:288][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.11.12-12.21.53:289][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.11.12-12.21.53:294][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.12-12.21.53:357][425]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.11.12-12.22.14:143][297]LogSlate: Window 'Pick Curve Class' being destroyed
+[2023.11.12-12.22.14:148][297]LogContentBrowser: Deferred new asset file creation: NewCurveBase
+[2023.11.12-12.22.14:152][297]LogContentBrowser: Creating deferred item: NewCurveBase
+[2023.11.12-12.22.14:160][298]LogContentBrowser: Renaming the item being created (Deferred Item: NewCurveBase).
+[2023.11.12-12.22.20:741][ 15]LogContentBrowser: Attempting asset rename: NewCurveBase -> C_SpeedDecreaseRamp
+[2023.11.12-12.22.20:742][ 15]LogContentBrowser: End creating deferred item NewCurveBase
+[2023.11.12-12.22.21:640][113]LogAssetEditorSubsystem: Opening Asset editor for CurveFloat /Game/Curves/C_SpeedDecreaseRamp.C_SpeedDecreaseRamp
+[2023.11.12-12.22.21:680][113]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:1784 H:0
+[2023.11.12-12.23.10:055][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-12.23.10:087][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Curves/C_SpeedDecreaseRamp" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Curves/C_SpeedDecreaseRamp.uasset" SILENT=true
+[2023.11.12-12.23.10:088][688]LogSavePackage: Moving output files for package: /Game/Curves/C_SpeedDecreaseRamp
+[2023.11.12-12.23.10:088][688]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/C_SpeedDecreaseRampF636C04F4D63FFE09416F88D914BD14A.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Curves/C_SpeedDecreaseRamp.uasset'
+[2023.11.12-12.23.10:092][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 2.14 sec)
+[2023.11.12-12.23.10:093][688]AssetCheck: New page: Asset Save: C_SpeedDecreaseRamp
+[2023.11.12-12.23.10:093][688]LogContentValidation: Display: Validating /Script/Engine.CurveFloat /Game/Curves/C_SpeedDecreaseRamp.C_SpeedDecreaseRamp
+[2023.11.12-12.23.50:871][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-12.23.50:900][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Curves/C_SpeedDecreaseRamp" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Curves/C_SpeedDecreaseRamp.uasset" SILENT=true
+[2023.11.12-12.23.50:902][170]LogSavePackage: Moving output files for package: /Game/Curves/C_SpeedDecreaseRamp
+[2023.11.12-12.23.50:902][170]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/C_SpeedDecreaseRamp24BC24BF4C88E480539CE8938B07E2E7.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Curves/C_SpeedDecreaseRamp.uasset'
+[2023.11.12-12.23.50:908][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 2.18 sec)
+[2023.11.12-12.23.50:908][170]AssetCheck: New page: Asset Save: C_SpeedDecreaseRamp
+[2023.11.12-12.23.50:908][170]LogContentValidation: Display: Validating /Script/Engine.CurveFloat /Game/Curves/C_SpeedDecreaseRamp.C_SpeedDecreaseRamp
+[2023.11.12-12.24.03:292][331]BlueprintLog: New page: Compile BP_Runner
+[2023.11.12-12.24.03:325][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.12-12.24.04:127][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-12.24.04:156][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.12-12.24.04:171][418]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.12-12.24.04:171][418]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_RunnerB44264D6418A066A01DE34844887FC7F.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.12-12.24.04:178][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.23 sec)
+[2023.11.12-12.24.04:180][418]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.12-12.24.04:180][418]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.12-12.24.11:939][341]BlueprintLog: New page: Compile BP_Runner
+[2023.11.12-12.24.11:968][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.12-12.24.13:234][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-12.24.13:260][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.12-12.24.13:275][485]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.12-12.24.13:275][485]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_RunnerCDD634774FEC79DC9BE1A1AAC4037268.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.12-12.24.13:282][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.27 sec)
+[2023.11.12-12.24.13:283][485]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.12-12.24.13:283][485]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.12-12.44.06:102][125]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 560 files in 968 folders with total size 4 MiB.
+[2023.11.12-13.44.06:098][923]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 560 files in 968 folders with total size 4 MiB.
+[2023.11.12-14.44.06:100][721]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 560 files in 968 folders with total size 4 MiB.
+[2023.11.12-15.44.06:105][518]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 560 files in 968 folders with total size 4 MiB.
+[2023.11.12-16.44.07:076][320]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.023 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 560 files in 968 folders with total size 4 MiB.
+[2023.11.12-17.03.18:046][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.12-17.03.18:048][653]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP_Debug' took 0.014
+[2023.11.12-17.03.18:048][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2023.11.12-17.03.18:048][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2023.11.12-17.03.18:048][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.11.12-17.03.18:062][653]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Runner_Auto5
+[2023.11.12-17.03.18:063][653]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner_Auto5B82FF9FF4307279DC7B6F99E978A4A40.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto5.uasset'
+[2023.11.12-17.03.18:063][653]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.11.12-17.13.18:627][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.12-17.13.18:629][232]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP_Debug' took 0.013
+[2023.11.12-17.13.18:629][232]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2023.11.12-17.13.18:629][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2023.11.12-17.13.18:629][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.11.12-17.13.18:645][232]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Runner_Auto6
+[2023.11.12-17.13.18:645][232]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner_Auto61C7C065245685175908EB3ACDE5A793D.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto6.uasset'
+[2023.11.12-17.13.18:645][232]LogFileHelpers: Auto-saving content packages took 0.017
+[2023.11.12-17.14.34:352][459]BlueprintLog: New page: Compile BP_Runner
+[2023.11.12-17.14.34:384][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.12-17.14.35:068][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-17.14.35:097][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.12-17.14.35:117][526]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.12-17.14.35:117][526]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner1863EBB14CC9BC2062465A9913BCEB1B.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.12-17.14.35:123][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 2.33 sec)
+[2023.11.12-17.14.35:125][526]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.12-17.14.35:125][526]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.12-17.14.37:069][735]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.12-17.14.37:073][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.12-17.14.37:073][735]PIE: New page: PIE session: MAP_Debug (12 Nov 2023, 19.14.37)
+[2023.11.12-17.14.37:111][735]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MAP_Debug
+[2023.11.12-17.14.37:113][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001549s)
+[2023.11.12-17.14.37:113][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP_Debug.MAP_Debug to /Game/UEDPIE_0_MAP_Debug.MAP_Debug (0.001583s)
+[2023.11.12-17.14.37:122][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.12-17.14.37:124][735]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.12-17.14.37:124][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.12-17.14.37:125][735]LogAIModule: Creating AISystem for world MAP_Debug
+[2023.11.12-17.14.37:125][735]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2023.11.12-17.14.37:125][735]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.11.12-17.14.37:125][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.12-17.14.37:125][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.12-17.14.37:125][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.12-17.14.37:125][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.12-17.14.37:125][735]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.12-17.14.37:125][735]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.12-17.14.37:125][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.12-17.14.37:125][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.12-17.14.37:125][735]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.12-17.14.37:125][735]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.12-17.14.37:125][735]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.12-17.14.37:127][735]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.12-17.14.37:144][735]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.12-17.14.37:145][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.12-17.14.37:145][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.12-17.14.37:145][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.12-17.14.37:145][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.11.12-17.14.37:145][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.11.12-17.14.37:147][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.11.12-17.14.37:147][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.11.12-17.14.37:147][735]LogInit: FAudioDevice initialized with ID 33.
+[2023.11.12-17.14.37:147][735]LogAudio: Display: Audio Device (ID: 33) registered with world 'MAP_Debug'.
+[2023.11.12-17.14.37:147][735]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2023.11.12-17.14.37:149][735]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.12-17.14.37:149][735]LogWorld: Bringing World /Game/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2023.11.12-18.14.37
+[2023.11.12-17.14.37:149][735]LogWorld: Bringing up level for play took: 0.000473
+[2023.11.12-17.14.37:151][735]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.11.12-17.14.37:152][735]PIE: Server logged in
+[2023.11.12-17.14.37:153][735]PIE: Play in editor total start time 0,079 seconds.
+[2023.11.12-17.14.40:940][139]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-17.14.43:511][416]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-17.14.46:784][771]LogBlueprintUserMessages: [BP_Runner_C_0] Left again
+[2023.11.12-17.14.50:406][169]LogBlueprintUserMessages: [BP_Runner_C_0] Right again
+[2023.11.12-17.14.53:530][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.12-17.14.53:530][513]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MAP_Debug
+[2023.11.12-17.14.53:532][513]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2023.11.12-17.14.53:532][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.12-17.14.53:534][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.12-17.14.53:537][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.12-17.14.53:549][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.12-17.14.53:549][513]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2023.11.12-17.14.53:549][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.11.12-17.14.53:551][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.11.12-17.14.53:553][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.12-17.14.53:555][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.12-17.14.53:618][514]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.11.12-17.16.05:360][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.12-17.16.05:391][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.12-17.16.05:414][757]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.12-17.16.05:414][757]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Runner9DDC068F4EAC44A150C9D38EDB4DE0DE.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.12-17.16.05:422][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.39 sec)
+[2023.11.12-17.16.05:424][757]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.12-17.16.05:424][757]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.12-17.16.06:788][910]BlueprintLog: New page: Compile BP_Runner
+[2023.11.12-17.16.06:825][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.12-17.17.19:108][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
