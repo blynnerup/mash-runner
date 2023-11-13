@@ -1412,3 +1412,800 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.13-11.43.10:574][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Field_Auto1
 [2023.11.13-11.43.10:574][816]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field_Auto18F52A0D04C703EFA6F4F69A71CB8F125.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto1.uasset'
 [2023.11.13-11.43.10:575][816]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.11.13-11.48.04:265][698]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 579 files in 1001 folders with total size 4 MiB.
+[2023.11.13-12.10.30:980][883]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-12.10.31:003][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.13-12.10.31:280][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-12.10.31:312][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-12.10.31:316][912]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-12.10.31:316][912]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field932868E44B5FB29DDB1D3B8D285A6186.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-12.10.31:322][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 468 ms)
+[2023.11.13-12.10.31:323][912]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-12.10.31:323][912]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-12.10.42:108][188]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-12.10.42:131][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.13-12.10.42:929][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-12.10.42:952][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-12.10.42:956][273]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-12.10.42:956][273]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field1D7C1DBF496A5AF3B299AA8BF199DD50.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-12.10.42:963][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 502 ms)
+[2023.11.13-12.10.42:963][273]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-12.10.42:963][273]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-12.36.40:234][345]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Field.BP_Field_C
+[2023.11.13-12.36.40:238][345]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Field.BP_Field_C
+[2023.11.13-12.36.40:240][345]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Field.BP_Field as actor: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_0
+[2023.11.13-12.36.40:242][345]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Field.BP_Field as actor: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_0
+[2023.11.13-12.36.40:248][345]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.13-12.36.40:595][374]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Field.BP_Field_C
+[2023.11.13-12.36.40:595][374]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Field.BP_Field_C
+[2023.11.13-12.36.40:598][374]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Field.BP_Field as actor: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_1
+[2023.11.13-12.36.40:601][374]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Field.BP_Field as actor: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_1
+[2023.11.13-12.37.48:039][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-12.37.48:064][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-12.37.48:069][851]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-12.37.48:069][851]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldF9F127F349183622094C318E5A3BBD29.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-12.37.48:073][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 536 ms)
+[2023.11.13-12.37.48:074][851]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-12.37.48:074][851]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-12.39.41:544][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.13-12.39.41:549][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.13-12.39.41:552][655]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Field_Auto2
+[2023.11.13-12.39.41:552][655]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_Field_Auto2A6A4F5944275CF02405AACAE8F304EC5.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto2.umap'
+[2023.11.13-12.39.41:552][655]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto2.umap is in the /Temp path, will not scan.
+[2023.11.13-12.39.41:552][655]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Field_Auto2 is in the /Temp path, will not scan.
+[2023.11.13-12.39.41:552][655]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Field_Auto2 is in the /Temp path, will not scan.
+[2023.11.13-12.39.41:552][655]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.025
+[2023.11.13-12.39.41:552][655]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2023.11.13-12.39.41:553][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2023.11.13-12.39.41:553][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2023.11.13-12.39.41:553][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.11.13-12.39.41:556][655]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Field_Auto2
+[2023.11.13-12.39.41:556][655]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field_Auto266E96B0249524EFEC476B29D3CC91E94.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto2.uasset'
+[2023.11.13-12.39.41:557][655]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.11.13-12.40.16:469][831]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.11.13-12.40.16:469][831]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.11.13-12.40.47:857][590]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.11.13-12.48.04:285][901]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.071 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 579 files in 1001 folders with total size 4 MiB.
+[2023.11.13-12.49.55:848][217]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-12.49.55:875][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.13-12.49.56:353][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-12.49.56:382][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-12.49.56:387][254]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-12.49.56:387][254]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field6C76EE2E4670416FC87FA68E00D66ADB.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-12.49.56:392][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 575 ms)
+[2023.11.13-12.49.56:393][254]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-12.49.56:393][254]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-12.50.22:007][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-12.50.22:036][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-12.50.22:040][255]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-12.50.22:040][255]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldD47756C9427CC463387E5BB64CDE30FC.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-12.50.22:045][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 612 ms)
+[2023.11.13-12.50.22:046][255]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-12.50.22:046][255]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-12.50.24:565][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-12.50.24:590][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.13-12.50.24:612][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.13-12.50.24:616][549]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Field
+[2023.11.13-12.50.24:616][549]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_Field24F5333842E41F07E30992BCF4D923D1.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap'
+[2023.11.13-12.50.24:621][549]LogFileHelpers: Saving map 'MAP_Field' took 0.031
+[2023.11.13-12.50.24:626][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 673 ms)
+[2023.11.13-12.50.24:626][549]AssetCheck: New page: Asset Save: MAP_Field
+[2023.11.13-12.50.24:626][549]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Field.MAP_Field
+[2023.11.13-12.57.07:102][153]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-12.57.07:134][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.13-12.57.07:788][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-12.57.07:817][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-12.57.07:823][220]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-12.57.07:823][220]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldB028FF5A4987B5B5E74804BA625F2D1E.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-12.57.07:828][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 712 ms)
+[2023.11.13-12.57.07:829][220]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-12.57.07:829][220]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-13.00.24:932][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.13-13.00.24:934][638]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.013
+[2023.11.13-13.00.24:934][638]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2023.11.13-13.00.24:934][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2023.11.13-13.00.24:934][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.11.13-13.00.24:941][638]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Field_Auto3
+[2023.11.13-13.00.24:941][638]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field_Auto31050C3224DA2858FD5BA9A962E3D3BAD.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto3.uasset'
+[2023.11.13-13.00.24:941][638]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.11.13-13.48.05:236][218]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.021 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 579 files in 1001 folders with total size 4 MiB.
+[2023.11.13-14.48.04:266][ 14]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.050 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 579 files in 1001 folders with total size 4 MiB.
+[2023.11.13-15.47.11:974][972]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-15.47.12:004][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.13-15.47.12:412][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-15.47.12:439][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-15.47.12:449][  8]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-15.47.12:449][  8]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field58C2E30540713155E49CB08AB4795133.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-15.47.12:455][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 755 ms)
+[2023.11.13-15.47.12:456][  8]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-15.47.12:456][  8]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-15.48.04:263][391]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 579 files in 1001 folders with total size 4 MiB.
+[2023.11.13-16.48.04:285][189]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.068 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 579 files in 1001 folders with total size 4 MiB.
+[2023.11.13-17.01.48:010][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.13-17.01.48:013][961]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.015
+[2023.11.13-17.01.48:014][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2023.11.13-17.01.48:014][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2023.11.13-17.01.48:014][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.11.13-17.01.48:021][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Field_Auto4
+[2023.11.13-17.01.48:021][961]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field_Auto4302011804E5A1DC07B83DE8B169E6C7B.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto4.uasset'
+[2023.11.13-17.01.48:022][961]LogFileHelpers: Auto-saving content packages took 0.008
+[2023.11.13-17.11.48:321][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.11.13-17.11.48:325][927]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.014
+[2023.11.13-17.11.48:325][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2023.11.13-17.11.48:325][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2023.11.13-17.11.48:325][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.11.13-17.11.48:333][927]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Field_Auto5
+[2023.11.13-17.11.48:333][927]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field_Auto5534C3E544FDC1BC6598E82B51660B2E5.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto5.uasset'
+[2023.11.13-17.11.48:333][927]LogFileHelpers: Auto-saving content packages took 0.008
+[2023.11.13-17.48.04:265][454]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 579 files in 1001 folders with total size 4 MiB.
+[2023.11.13-18.01.56:988][143]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.13-18.01.57:002][143]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=157916
+[2023.11.13-18.01.57:336][144]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{68145fca-27e5-4f2e-9ca4-014901768c11}, Name=Headset Earphone (SteelSeries Arctis 9 Chat)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=28.16
+[2023.11.13-18.01.57:336][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.13-18.01.57:338][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.13-19.15.27:410][243]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4376 Seconds] waiting for h/w. InstanceID=1
+[2023.11.13-19.15.29:416][243]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=157916
+[2023.11.13-19.15.29:433][244]LogAutomationController: Ignoring very large delta of 4377.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.13-19.15.34:417][259]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.11.13-19.15.36:066][264]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{68145fca-27e5-4f2e-9ca4-014901768c11} Name=Headset Earphone (SteelSeries Arctis 9 Chat))
+[2023.11.13-19.15.36:314][264]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (SteelSeries Arctis 9 Game), InstanceID=1
+[2023.11.13-19.15.36:423][265]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Microphone), InstanceID=1
+[2023.11.13-19.15.36:917][266]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (SteelSeries Arctis 9 Chat), InstanceID=1
+[2023.11.13-19.15.36:968][266]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{56cee5cd-82ce-4149-8097-0ee4026ccc3e}, Name=Speakers (Steam Streaming Microphone)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.15
+[2023.11.13-19.15.36:968][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.13-19.15.36:969][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.13-19.15.37:298][267]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=157916
+[2023.11.13-19.15.37:633][268]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{68145fca-27e5-4f2e-9ca4-014901768c11}, Name=Headset Earphone (SteelSeries Arctis 9 Chat)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=22.50
+[2023.11.13-19.15.37:633][268]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.13-19.15.37:635][268]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.13-19.17.06:915][353]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.17.07:027][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.13-19.17.08:146][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.17.08:170][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.17.08:180][474]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.17.08:180][474]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field700E25D5437C32F9A564EDA19F80D086.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.17.08:186][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 796 ms)
+[2023.11.13-19.17.08:187][474]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.17.08:187][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.17.55:269][231]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.17.55:303][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.13-19.17.57:905][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.17.57:932][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.17.57:939][526]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.17.57:940][526]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field4FAC48564DBF786ECAAF5496B75452BD.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.17.57:945][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 835 ms)
+[2023.11.13-19.17.57:946][526]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.17.57:946][526]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.18.22:910][704]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.18.22:949][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.13-19.18.23:510][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.18.23:538][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.18.23:546][756]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.18.23:546][756]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field9A0AD8BA4A50B2507FE06684D3310FC1.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.18.23:553][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 878 ms)
+[2023.11.13-19.18.23:554][756]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.18.23:554][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.18.30:348][523]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.18.30:379][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.13-19.18.37:169][316]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.18.37:200][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.13-19.18.38:003][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.18.38:032][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.18.38:042][405]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.18.38:042][405]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field2105689848C1125DD77025B76AE94DDB.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.18.38:049][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 924 ms)
+[2023.11.13-19.18.38:050][405]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.18.38:050][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.20.32:109][437]BlueprintLog: New page: Collapse to Function
+[2023.11.13-19.22.08:422][274]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.22.08:463][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.13-19.22.09:681][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.22.09:715][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.22.09:723][413]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.22.09:723][413]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldF679D0524C40F9268D82219AEC648D2C.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.22.09:731][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 973 ms)
+[2023.11.13-19.22.09:732][413]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.22.09:732][413]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.22.22:100][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.22.22:131][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.22.22:142][810]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.22.22:142][810]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldBCDD29B5489CC29E4982A6A1D202074B.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.22.22:150][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.02 sec)
+[2023.11.13-19.22.22:151][810]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.22.22:151][810]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.25.29:438][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.13-19.25.29:442][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.13-19.25.29:445][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Field_Auto6
+[2023.11.13-19.25.29:445][473]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_Field_Auto68094D97241C51A0F6D8C28B2094DC367.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto6.umap'
+[2023.11.13-19.25.29:445][473]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto6.umap is in the /Temp path, will not scan.
+[2023.11.13-19.25.29:445][473]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Field_Auto6 is in the /Temp path, will not scan.
+[2023.11.13-19.25.29:445][473]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Field_Auto6 is in the /Temp path, will not scan.
+[2023.11.13-19.25.29:445][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.021
+[2023.11.13-19.25.29:445][473]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2023.11.13-19.29.13:205][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.29.13:238][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.29.13:247][170]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.29.13:248][170]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldF4731EFC4AEFCE4A0D8F9C873B9CFE5A.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.29.13:254][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.07 sec)
+[2023.11.13-19.29.13:255][170]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.29.13:255][170]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.40.08:707][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.13-19.40.08:711][202]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.015
+[2023.11.13-19.40.08:711][202]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2023.11.13-19.40.08:711][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2023.11.13-19.40.08:711][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.11.13-19.40.08:720][202]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Field_Auto7
+[2023.11.13-19.40.08:720][202]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field_Auto74C010B814AB58E71DAB8E6AF2E1282F9.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto7.uasset'
+[2023.11.13-19.40.08:721][202]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.11.13-19.41.42:927][899]LogEditorTransaction: Undo Create Pin Link
+[2023.11.13-19.41.43:257][907]LogEditorTransaction: Undo Move Node
+[2023.11.13-19.41.44:430][ 30]LogEditorTransaction: Redo Move Node
+[2023.11.13-19.42.49:862][363]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.42.49:892][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.13-19.46.32:716][379]BlueprintLog: New page: Collapse to Function
+[2023.11.13-19.48.49:842][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.48.49:874][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.48.49:885][324]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.48.49:885][324]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field530F88294C9E300E345BD5832FFE304D.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.48.49:891][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.11 sec)
+[2023.11.13-19.48.49:892][324]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.48.49:892][324]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.48.50:632][409]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.48.50:648][409]LogBlueprint: Error: [AssetLog] D:\Source\Unreal Games\mash-runner\MashRunner\Content\Blueprints\BP_Field.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.11.13-19.48.50:663][409]LogBlueprint: Error: [AssetLog] D:\Source\Unreal Games\mash-runner\MashRunner\Content\Blueprints\BP_Field.uasset: [Compiler] Variable node  Get  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.11.13-19.48.50:716][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.13-19.49.05:642][697]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.49.05:677][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.13-19.49.06:289][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.49.06:321][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.49.06:333][759]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.49.06:333][759]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field5334067E4B582EEE0823668D141AD78B.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.49.06:339][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.17 sec)
+[2023.11.13-19.49.06:342][759]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.49.06:342][759]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.49.41:807][755]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.49.41:844][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.13-19.50.17:876][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.50.17:903][790]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(754)].
+[2023.11.13-19.50.17:912][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.50.17:923][790]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.50.17:923][790]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field3298070D46E0DFA2BAB941A927F2A519.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.50.17:931][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.22 sec)
+[2023.11.13-19.50.17:932][790]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.50.17:932][790]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.51.55:836][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.13-19.51.55:840][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.13-19.51.55:842][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Field_Auto8
+[2023.11.13-19.51.55:842][536]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_Field_Auto85E672DBF4139A05095C7BBA4C86F174B.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto8.umap'
+[2023.11.13-19.51.55:843][536]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto8.umap is in the /Temp path, will not scan.
+[2023.11.13-19.51.55:843][536]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Field_Auto8 is in the /Temp path, will not scan.
+[2023.11.13-19.51.55:843][536]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Field_Auto8 is in the /Temp path, will not scan.
+[2023.11.13-19.51.55:843][536]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.020
+[2023.11.13-19.51.55:843][536]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2023.11.13-19.52.10:345][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.52.10:375][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.52.10:384][269]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.52.10:384][269]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field770DDC704A35B7EBFC0631862E9D42CE.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.52.10:391][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.27 sec)
+[2023.11.13-19.52.10:391][269]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.52.10:391][269]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.52.20:548][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.52.20:571][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.52.20:581][472]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.52.20:582][472]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field1F42E5424D33C18CF7AFBBB3CED77323.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.52.20:589][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.31 sec)
+[2023.11.13-19.52.20:589][472]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.52.20:589][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.52.20:904][510]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.52.20:939][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.13-19.52.26:576][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.52.26:604][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.13-19.52.26:627][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.13-19.52.26:634][146]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Field
+[2023.11.13-19.52.26:634][146]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_Field96EE7CB043A66A30F23C648D969FFA8C.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap'
+[2023.11.13-19.52.26:638][146]LogFileHelpers: Saving map 'MAP_Field' took 0.035
+[2023.11.13-19.52.26:645][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.38 sec)
+[2023.11.13-19.52.26:646][146]AssetCheck: New page: Asset Save: MAP_Field
+[2023.11.13-19.52.26:646][146]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Field.MAP_Field
+[2023.11.13-19.52.54:752][774]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-19.52.54:793][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.13-19.52.55:172][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.52.55:203][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-19.52.55:215][799]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-19.52.55:215][799]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldB5DE278E49A44F76B10BC686150B5A60.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-19.52.55:222][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.43 sec)
+[2023.11.13-19.52.55:223][799]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-19.52.55:223][799]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-19.53.32:060][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2023.11.13-19.53.32:061][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2023.11.13-19.53.32:103][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Runner_C_0
+[2023.11.13-19.53.32:104][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Runner_C_0
+[2023.11.13-19.53.32:939][256]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2023.11.13-19.53.32:939][256]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2023.11.13-19.53.32:943][256]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Runner_C_1
+[2023.11.13-19.53.32:944][256]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Runner_C_1
+[2023.11.13-19.53.33:102][257]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-19.53.43:261][769]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.13-19.53.43:307][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.13-19.53.43:307][769]PIE: New page: PIE session: MAP_Field (13 Nov 2023, 21.53.43)
+[2023.11.13-19.53.43:308][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-19.53.43:325][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017561s)
+[2023.11.13-19.53.43:325][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Field.MAP_Field to /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field (0.017629s)
+[2023.11.13-19.53.43:339][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.13-19.53.43:344][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-19.53.43:344][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-19.53.43:345][769]LogAIModule: Creating AISystem for world MAP_Field
+[2023.11.13-19.53.43:346][769]LogPlayLevel: PIE: World Init took: (0.001983s)
+[2023.11.13-19.53.43:346][769]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.11.13-19.53.43:346][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.13-19.53.43:346][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.13-19.53.43:346][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.13-19.53.43:346][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.13-19.53.43:346][769]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.13-19.53.43:346][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.13-19.53.43:346][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.13-19.53.43:346][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.13-19.53.43:359][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.13-19.53.43:359][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.13-19.53.43:359][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.13-19.53.43:361][769]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.13-19.53.43:379][769]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.13-19.53.43:379][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.13-19.53.43:379][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.13-19.53.43:379][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.13-19.53.43:380][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.11.13-19.53.43:380][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.11.13-19.53.43:382][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.11.13-19.53.43:382][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.11.13-19.53.43:385][769]LogInit: FAudioDevice initialized with ID 4.
+[2023.11.13-19.53.43:385][769]LogAudio: Display: Audio Device (ID: 4) registered with world 'MAP_Field'.
+[2023.11.13-19.53.43:385][769]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.11.13-19.53.43:396][769]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.13-19.53.43:396][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field up for play (max tick rate 0) at 2023.11.13-20.53.43
+[2023.11.13-19.53.43:433][769]LogWorld: Bringing up level for play took: 0.037877
+[2023.11.13-19.53.43:436][769]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.11.13-19.53.43:486][769]PIE: Server logged in
+[2023.11.13-19.53.43:486][769]PIE: Play in editor total start time 0,22 seconds.
+[2023.11.13-19.53.53:235][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-19.53.53:235][905]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-19.53.53:235][905]LogWorld: UWorld::CleanupWorld for MAP_Field, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-19.53.53:236][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-19.53.53:240][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.13-19.53.53:243][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-19.53.53:253][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.13-19.53.53:268][905]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.11.13-19.53.53:268][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.13-19.53.53:270][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.13-19.53.53:272][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-19.53.53:284][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.13-19.53.53:368][906]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.11.13-19.53.53:371][906]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.00.55:402][542]LogDerivedDataCache: C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.120 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 580 files in 1002 folders with total size 4 MiB.
+[2023.11.13-20.02.36:943][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.13-20.02.36:948][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.13-20.02.36:951][846]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Field_Auto9
+[2023.11.13-20.02.36:951][846]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_Field_Auto9F78010A24932ED89AB72ADB686B434E9.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto9.umap'
+[2023.11.13-20.02.36:952][846]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Source/Unreal Games/mash-runner/MashRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto9.umap is in the /Temp path, will not scan.
+[2023.11.13-20.02.36:952][846]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Field_Auto9 is in the /Temp path, will not scan.
+[2023.11.13-20.02.36:952][846]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Field_Auto9 is in the /Temp path, will not scan.
+[2023.11.13-20.02.36:952][846]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.021
+[2023.11.13-20.02.36:952][846]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2023.11.13-20.22.56:991][362]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-20.22.57:022][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.13-20.22.57:491][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-20.22.57:516][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-20.22.57:527][403]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-20.22.57:527][403]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field5867C17846E3FA7C1D6854B1CA1C6377.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-20.22.57:533][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.47 sec)
+[2023.11.13-20.22.57:535][403]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-20.22.57:535][403]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-20.23.01:282][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.13-20.23.01:282][823]PIE: New page: SIE session: MAP_Field (13 Nov 2023, 22.23.01)
+[2023.11.13-20.23.01:282][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.23.01:284][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001172s)
+[2023.11.13-20.23.01:284][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Field.MAP_Field to /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field (0.001198s)
+[2023.11.13-20.23.01:295][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.13-20.23.01:299][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-20.23.01:299][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-20.23.01:299][823]LogAIModule: Creating AISystem for world MAP_Field
+[2023.11.13-20.23.01:299][823]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2023.11.13-20.23.01:299][823]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.13-20.23.01:299][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.13-20.23.01:299][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.13-20.23.01:299][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.13-20.23.01:299][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.13-20.23.01:299][823]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.13-20.23.01:299][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.13-20.23.01:299][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.13-20.23.01:299][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.13-20.23.01:300][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.13-20.23.01:300][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.13-20.23.01:300][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.13-20.23.01:302][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.13-20.23.01:320][823]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.13-20.23.01:320][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.13-20.23.01:320][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.13-20.23.01:320][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.13-20.23.01:320][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.11.13-20.23.01:320][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.11.13-20.23.01:321][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.11.13-20.23.01:321][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.11.13-20.23.01:321][823]LogInit: FAudioDevice initialized with ID 5.
+[2023.11.13-20.23.01:321][823]LogAudio: Display: Audio Device (ID: 5) registered with world 'MAP_Field'.
+[2023.11.13-20.23.01:321][823]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.13-20.23.01:324][823]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.13-20.23.01:325][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field up for play (max tick rate 0) at 2023.11.13-21.23.01
+[2023.11.13-20.23.01:325][823]LogWorld: Bringing up level for play took: 0.000698
+[2023.11.13-20.23.01:326][823]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.11.13-20.23.01:339][823]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.13-20.23.01:349][823]PIE: Server logged in
+[2023.11.13-20.23.01:349][823]PIE: Play in editor total start time 0,068 seconds.
+[2023.11.13-20.23.01:643][824]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.23.07:743][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.23.07:743][387]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.23.07:765][387]LogWorld: UWorld::CleanupWorld for MAP_Field, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-20.23.07:765][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.23.07:769][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.13-20.23.07:772][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.23.07:783][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.13-20.23.07:783][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.13-20.23.07:783][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.13-20.23.07:785][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.13-20.23.07:787][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.23.07:789][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.13-20.23.07:872][388]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.11.13-20.23.07:883][388]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.23.19:188][674]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-20.23.19:217][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.13-20.23.19:829][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-20.23.19:848][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-20.23.19:857][736]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-20.23.19:857][736]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field43E92CB14CBB13E08C170986321A4588.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-20.23.19:862][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.50 sec)
+[2023.11.13-20.23.19:863][736]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-20.23.19:864][736]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-20.23.24:037][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-20.23.24:056][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.13-20.23.24:079][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.13-20.23.24:085][218]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Field
+[2023.11.13-20.23.24:086][218]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_FieldF1012DF54142A1238E51F5AAEE1590E6.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap'
+[2023.11.13-20.23.24:089][218]LogFileHelpers: Saving map 'MAP_Field' took 0.033
+[2023.11.13-20.23.24:095][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.56 sec)
+[2023.11.13-20.23.24:095][218]AssetCheck: New page: Asset Save: MAP_Field
+[2023.11.13-20.23.24:095][218]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Field.MAP_Field
+[2023.11.13-20.23.25:967][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.13-20.23.25:967][430]PIE: New page: SIE session: MAP_Field (13 Nov 2023, 22.23.25)
+[2023.11.13-20.23.25:967][430]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.23.25:970][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001606s)
+[2023.11.13-20.23.25:970][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Field.MAP_Field to /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field (0.001643s)
+[2023.11.13-20.23.25:981][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.13-20.23.25:982][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-20.23.25:982][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-20.23.25:983][430]LogAIModule: Creating AISystem for world MAP_Field
+[2023.11.13-20.23.25:983][430]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2023.11.13-20.23.25:983][430]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.11.13-20.23.25:983][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.13-20.23.25:983][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.13-20.23.25:983][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.13-20.23.25:983][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.13-20.23.25:983][430]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.13-20.23.25:983][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.13-20.23.25:983][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.13-20.23.25:983][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.13-20.23.25:984][430]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.13-20.23.25:984][430]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.13-20.23.25:984][430]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.13-20.23.25:985][430]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.13-20.23.26:004][430]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.13-20.23.26:004][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.13-20.23.26:004][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.13-20.23.26:004][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.13-20.23.26:005][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.11.13-20.23.26:005][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.11.13-20.23.26:006][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.11.13-20.23.26:006][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.11.13-20.23.26:006][430]LogInit: FAudioDevice initialized with ID 6.
+[2023.11.13-20.23.26:006][430]LogAudio: Display: Audio Device (ID: 6) registered with world 'MAP_Field'.
+[2023.11.13-20.23.26:006][430]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.13-20.23.26:009][430]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.13-20.23.26:009][430]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field up for play (max tick rate 0) at 2023.11.13-21.23.26
+[2023.11.13-20.23.26:010][430]LogWorld: Bringing up level for play took: 0.000843
+[2023.11.13-20.23.26:011][430]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.11.13-20.23.26:011][430]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.13-20.23.26:012][430]PIE: Server logged in
+[2023.11.13-20.23.26:012][430]PIE: Play in editor total start time 0,045 seconds.
+[2023.11.13-20.23.26:212][431]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.23.40:232][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.23.40:232][786]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.23.40:232][786]LogWorld: UWorld::CleanupWorld for MAP_Field, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-20.23.40:232][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.23.40:236][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.13-20.23.40:238][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.23.40:250][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.23.40:250][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.13-20.23.40:250][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.13-20.23.40:252][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.13-20.23.40:257][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.13-20.23.40:347][787]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.11.13-20.23.49:313][542]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-20.23.49:340][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.13-20.23.49:762][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-20.23.49:780][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-20.23.49:790][580]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-20.23.49:791][580]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldCE41362549F0D40F74AAC4970509031D.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-20.23.49:796][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.59 sec)
+[2023.11.13-20.23.49:797][580]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-20.23.49:797][580]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-20.24.00:917][887]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.24.12:420][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.13-20.24.12:420][149]PIE: New page: SIE session: MAP_Field (13 Nov 2023, 22.24.12)
+[2023.11.13-20.24.12:420][149]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.24.12:422][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001207s)
+[2023.11.13-20.24.12:422][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Field.MAP_Field to /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field (0.001233s)
+[2023.11.13-20.24.12:435][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.13-20.24.12:438][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-20.24.12:439][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-20.24.12:439][149]LogAIModule: Creating AISystem for world MAP_Field
+[2023.11.13-20.24.12:439][149]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2023.11.13-20.24.12:439][149]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.11.13-20.24.12:439][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.13-20.24.12:439][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.13-20.24.12:439][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.13-20.24.12:439][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.13-20.24.12:439][149]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.13-20.24.12:439][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.13-20.24.12:439][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.13-20.24.12:439][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.13-20.24.12:440][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.13-20.24.12:440][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.13-20.24.12:440][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.13-20.24.12:442][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.13-20.24.12:460][149]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.13-20.24.12:460][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.13-20.24.12:460][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.13-20.24.12:460][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.13-20.24.12:461][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.11.13-20.24.12:461][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.11.13-20.24.12:462][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.11.13-20.24.12:462][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.11.13-20.24.12:463][149]LogInit: FAudioDevice initialized with ID 7.
+[2023.11.13-20.24.12:463][149]LogAudio: Display: Audio Device (ID: 7) registered with world 'MAP_Field'.
+[2023.11.13-20.24.12:463][149]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.13-20.24.12:465][149]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.13-20.24.12:465][149]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field up for play (max tick rate 0) at 2023.11.13-21.24.12
+[2023.11.13-20.24.12:466][149]LogWorld: Bringing up level for play took: 0.000802
+[2023.11.13-20.24.12:467][149]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.11.13-20.24.12:467][149]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.13-20.24.12:468][149]PIE: Server logged in
+[2023.11.13-20.24.12:468][149]PIE: Play in editor total start time 0,048 seconds.
+[2023.11.13-20.24.12:670][150]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.24.18:911][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.24.18:911][696]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.24.18:911][696]LogWorld: UWorld::CleanupWorld for MAP_Field, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-20.24.18:911][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.24.18:915][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.13-20.24.18:918][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.24.18:929][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.13-20.24.18:929][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.13-20.24.18:929][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.13-20.24.18:931][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.13-20.24.18:934][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.24.18:936][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.13-20.24.19:018][697]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.11.13-20.24.19:022][697]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.24.29:856][289]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-20.24.29:883][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.13-20.24.30:815][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-20.24.30:842][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-20.24.30:850][386]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-20.24.30:850][386]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldB90A91C44A15911658BC09AD3CCD436B.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-20.24.30:856][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.64 sec)
+[2023.11.13-20.24.30:857][386]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-20.24.30:857][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-20.24.33:260][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-20.24.33:285][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.13-20.24.33:305][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.13-20.24.33:312][662]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Field
+[2023.11.13-20.24.33:312][662]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/MAP_Field7E710E5745EB2A64559980A93749773E.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap'
+[2023.11.13-20.24.33:317][662]LogFileHelpers: Saving map 'MAP_Field' took 0.031
+[2023.11.13-20.24.33:323][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.70 sec)
+[2023.11.13-20.24.33:324][662]AssetCheck: New page: Asset Save: MAP_Field
+[2023.11.13-20.24.33:324][662]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Field.MAP_Field
+[2023.11.13-20.24.35:023][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.13-20.24.35:023][858]PIE: New page: SIE session: MAP_Field (13 Nov 2023, 22.24.35)
+[2023.11.13-20.24.35:023][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.24.35:024][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001299s)
+[2023.11.13-20.24.35:024][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Field.MAP_Field to /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field (0.001324s)
+[2023.11.13-20.24.35:036][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.13-20.24.35:037][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-20.24.35:037][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-20.24.35:037][858]LogAIModule: Creating AISystem for world MAP_Field
+[2023.11.13-20.24.35:037][858]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2023.11.13-20.24.35:037][858]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.11.13-20.24.35:037][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.13-20.24.35:037][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.13-20.24.35:037][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.13-20.24.35:037][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.13-20.24.35:037][858]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.13-20.24.35:037][858]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.13-20.24.35:037][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.13-20.24.35:037][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.13-20.24.35:038][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.13-20.24.35:038][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.13-20.24.35:038][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.13-20.24.35:039][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.13-20.24.35:056][858]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.13-20.24.35:057][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.13-20.24.35:057][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.13-20.24.35:057][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.13-20.24.35:057][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.11.13-20.24.35:057][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.11.13-20.24.35:058][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.11.13-20.24.35:058][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.11.13-20.24.35:058][858]LogInit: FAudioDevice initialized with ID 8.
+[2023.11.13-20.24.35:058][858]LogAudio: Display: Audio Device (ID: 8) registered with world 'MAP_Field'.
+[2023.11.13-20.24.35:058][858]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.13-20.24.35:060][858]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.13-20.24.35:060][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field up for play (max tick rate 0) at 2023.11.13-21.24.35
+[2023.11.13-20.24.35:061][858]LogWorld: Bringing up level for play took: 0.000665
+[2023.11.13-20.24.35:062][858]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.11.13-20.24.35:062][858]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.13-20.24.35:063][858]PIE: Server logged in
+[2023.11.13-20.24.35:063][858]PIE: Play in editor total start time 0,041 seconds.
+[2023.11.13-20.24.35:258][859]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.24.37:700][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.24.37:700][114]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.24.37:701][114]LogWorld: UWorld::CleanupWorld for MAP_Field, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-20.24.37:701][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.24.37:713][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.13-20.24.37:716][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.24.37:726][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.24.37:726][114]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.13-20.24.37:726][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.13-20.24.37:727][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.13-20.24.37:733][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.13-20.24.37:815][115]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.11.13-20.24.37:819][115]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.24.41:466][531]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-20.24.41:494][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.13-20.24.41:897][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-20.24.41:927][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-20.24.41:937][564]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-20.24.41:937][564]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_FieldDC503C694B19E5FFE3E6BB93DF12ECFA.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-20.24.41:944][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.75 sec)
+[2023.11.13-20.24.41:947][564]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-20.24.41:947][564]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-20.24.44:370][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.13-20.24.44:370][839]PIE: New page: SIE session: MAP_Field (13 Nov 2023, 22.24.44)
+[2023.11.13-20.24.44:370][839]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.24.44:372][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001366s)
+[2023.11.13-20.24.44:372][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Field.MAP_Field to /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field (0.001400s)
+[2023.11.13-20.24.44:384][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.13-20.24.44:388][839]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-20.24.44:388][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-20.24.44:388][839]LogAIModule: Creating AISystem for world MAP_Field
+[2023.11.13-20.24.44:388][839]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2023.11.13-20.24.44:388][839]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.11.13-20.24.44:388][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.13-20.24.44:388][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.13-20.24.44:388][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.13-20.24.44:388][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.13-20.24.44:388][839]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.13-20.24.44:388][839]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.13-20.24.44:388][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.13-20.24.44:388][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.13-20.24.44:389][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.13-20.24.44:389][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.13-20.24.44:389][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.13-20.24.44:390][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.13-20.24.44:408][839]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.13-20.24.44:409][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.13-20.24.44:409][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.13-20.24.44:409][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.13-20.24.44:409][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.11.13-20.24.44:409][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.11.13-20.24.44:411][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.11.13-20.24.44:411][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.11.13-20.24.44:411][839]LogInit: FAudioDevice initialized with ID 9.
+[2023.11.13-20.24.44:411][839]LogAudio: Display: Audio Device (ID: 9) registered with world 'MAP_Field'.
+[2023.11.13-20.24.44:411][839]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.13-20.24.44:413][839]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.13-20.24.44:413][839]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field up for play (max tick rate 0) at 2023.11.13-21.24.44
+[2023.11.13-20.24.44:414][839]LogWorld: Bringing up level for play took: 0.000810
+[2023.11.13-20.24.44:415][839]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.11.13-20.24.44:416][839]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.13-20.24.44:416][839]PIE: Server logged in
+[2023.11.13-20.24.44:417][839]PIE: Play in editor total start time 0,047 seconds.
+[2023.11.13-20.24.44:617][840]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.24.50:521][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.24.50:521][403]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.24.50:522][403]LogWorld: UWorld::CleanupWorld for MAP_Field, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-20.24.50:522][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.24.50:525][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.13-20.24.50:528][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.24.50:539][403]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.13-20.24.50:539][403]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.13-20.24.50:539][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.13-20.24.50:540][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.13-20.24.50:543][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.24.50:545][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.13-20.24.50:629][404]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.11.13-20.24.50:640][404]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.24.53:964][782]BlueprintLog: New page: Compile BP_Field
+[2023.11.13-20.24.53:991][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.13-20.24.54:350][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-20.24.54:378][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2023.11.13-20.24.54:387][814]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2023.11.13-20.24.54:387][814]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_Field6AD181F346025E2BD328D59E262248A7.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset'
+[2023.11.13-20.24.54:391][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.79 sec)
+[2023.11.13-20.24.54:393][814]AssetCheck: New page: Asset Save: BP_Field
+[2023.11.13-20.24.54:393][814]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Field.BP_Field
+[2023.11.13-20.24.58:966][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.13-20.24.58:966][337]PIE: New page: SIE session: MAP_Field (13 Nov 2023, 22.24.58)
+[2023.11.13-20.24.58:966][337]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.24.58:968][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001241s)
+[2023.11.13-20.24.58:968][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Field.MAP_Field to /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field (0.001267s)
+[2023.11.13-20.24.58:980][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.13-20.24.58:983][337]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-20.24.58:983][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-20.24.58:984][337]LogAIModule: Creating AISystem for world MAP_Field
+[2023.11.13-20.24.58:984][337]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2023.11.13-20.24.58:984][337]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.13-20.24.58:984][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.13-20.24.58:984][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.13-20.24.58:984][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.13-20.24.58:984][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.13-20.24.58:984][337]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.13-20.24.58:984][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.13-20.24.58:984][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.13-20.24.58:984][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.13-20.24.58:984][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.13-20.24.58:984][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.13-20.24.58:984][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.13-20.24.58:985][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.13-20.24.59:003][337]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2023.11.13-20.24.59:003][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.13-20.24.59:003][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.13-20.24.59:003][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.13-20.24.59:004][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.13-20.24.59:004][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.11.13-20.24.59:005][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.13-20.24.59:005][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.13-20.24.59:005][337]LogInit: FAudioDevice initialized with ID 10.
+[2023.11.13-20.24.59:005][337]LogAudio: Display: Audio Device (ID: 10) registered with world 'MAP_Field'.
+[2023.11.13-20.24.59:005][337]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.13-20.24.59:007][337]LogLoad: Game class is 'GM_Runner_C'
+[2023.11.13-20.24.59:008][337]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field up for play (max tick rate 0) at 2023.11.13-21.24.59
+[2023.11.13-20.24.59:008][337]LogWorld: Bringing up level for play took: 0.000686
+[2023.11.13-20.24.59:009][337]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.11.13-20.24.59:009][337]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.13-20.24.59:010][337]PIE: Server logged in
+[2023.11.13-20.24.59:010][337]PIE: Play in editor total start time 0,044 seconds.
+[2023.11.13-20.24.59:207][338]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.25.05:529][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.25.05:529][735]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Field
+[2023.11.13-20.25.05:529][735]LogWorld: UWorld::CleanupWorld for MAP_Field, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-20.25.05:529][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.25.05:534][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.13-20.25.05:537][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-20.25.05:547][735]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.13-20.25.05:547][735]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.13-20.25.05:548][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.13-20.25.05:549][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.13-20.25.05:553][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-20.25.05:555][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.13-20.25.05:639][736]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.11.13-20.25.05:647][736]LogViewport: Scene viewport resized to 643x256, mode Windowed.
+[2023.11.13-20.25.32:536][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.13-20.25.35:757][866]LogSlate: Window 'Save Content' being destroyed
+[2023.11.13-20.25.35:768][867]LogAutomationController: Ignoring very large delta of 3.25 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.13-20.25.39:209][271]BlueprintLog: New page: Compile BP_Runner
+[2023.11.13-20.25.39:289][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.13-20.25.39:631][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-20.25.39:648][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2023.11.13-20.25.39:669][275]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2023.11.13-20.25.39:669][275]LogSavePackage: Moving 'D:/Source/Unreal Games/mash-runner/MashRunner/Saved/BP_RunnerE376EAB64F73971615016F847DCC1952.tmp' to 'D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Runner.uasset'
+[2023.11.13-20.25.39:674][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.83 sec)
+[2023.11.13-20.25.39:675][275]AssetCheck: New page: Asset Save: BP_Runner
+[2023.11.13-20.25.39:675][275]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2023.11.13-20.25.39:972][307]LogViewport: Scene viewport resized to 643x256, mode Windowed.
