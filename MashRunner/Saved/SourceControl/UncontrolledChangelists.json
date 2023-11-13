@@ -31,7 +31,9 @@
 				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/Enums/E_Input.uasset",
 				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Curves/C_SpeedIncreaseRamp.uasset",
 				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Curves/C_SpeedDecreaseRamp.uasset",
-				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Sounds/Cue_Footstep.uasset"
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Sounds/Cue_Footstep.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset"
 			]
 		}
 	]
