@@ -34,7 +34,9 @@
 				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Sounds/Cue_Footstep.uasset",
 				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Maps/MAP_Field.umap",
 				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Field.uasset",
-				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/AI/AIC_Runner.uasset"
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/AI/AIC_Runner.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP-Goal.uasset",
+				"D:/Source/Unreal Games/mash-runner/MashRunner/Content/Blueprints/BP_Goal.uasset"
 			]
 		}
 	]
